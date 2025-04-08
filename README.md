@@ -1,16 +1,20 @@
 ## Hi there 👋
+I'm MayrosLykos!
 
-<!--
-**MayrosLykos/MayrosLykos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineer,ICT at International Hellenic University**  
+🔧 **I love C++ and software development**  
+🚀 My goal: To evolve as a programmer and become really good at what I do, always learning and improving my skills.
 
-Here are some ideas to get you started:
+## 📌 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Banking System in C++](https://github.com/MayrosLykos/banking-system-cpp): Console banking system application
+- [Qt Banking GUI (under development)](https://github.com/MayrosLykos/qt-banking-gui)
+
+## 🛠️ Skills
+
+- **C++**, **HTML(basics)**, **CSS(basics)**
+- **CLion** 
+
+## 📫 Contact
+
+- 📧 **Email**: bilisgrigo03@gmail.com
