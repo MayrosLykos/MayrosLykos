@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm MayrosLykos!
+I'm NaerMataron!
 
 🎓 **Computer Engineer,ICT at International Hellenic University**  
 🔧 **I love C++ and software development**  
@@ -7,8 +7,8 @@ I'm MayrosLykos!
 
 ## 📌 Projects
 
-- [Banking System in C++](https://github.com/MayrosLykos/banking-system-cpp): Console banking system application
-- [Qt Banking GUI (under development)](https://github.com/MayrosLykos/qt-banking-gui)
+- [Banking System in C++](https://github.com/NaerMataron/banking-system-cpp): Console banking system application
+- [Qt Banking GUI (under development)](https://github.com/NaerMataron/qt-banking-gui)
 
 ## 🛠️ Skills
 
