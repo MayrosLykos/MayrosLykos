@@ -8,13 +8,22 @@ I'm NaerMataron!
 ## 📌 Projects
 
 - [Banking System in C++](https://github.com/NaerMataron/banking-system-cpp): Console banking system application
-- [Qt Banking GUI (under development)](https://github.com/NaerMataron/qt-banking-gui)
+- [Qt Banking GUI (under development.)
 
 ## 🛠️ Skills
 
 - **C++**, **HTML(basics)**, **CSS(basics)**
-- **CLion** 
+- **CLion**
 
+## 🎓 Holder of 2 Badges by
+- **CISCO NETWORKING ACADEMY**
+- **Networking Basics**
+- **Introduction to Cybersecurity**
+
+## 🎓 Cerificate by
+- **CISCO NETWORKING ACADEMY**
+- **Learn-A-Thon 2024**
+  
 ## 📫 Contact
 
 - 📧 **Email**: bilisgrigo03@gmail.com
