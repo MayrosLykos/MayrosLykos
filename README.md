@@ -15,13 +15,11 @@ I'm NaerMataron!
 - **C++**, **HTML(basics)**, **CSS(basics)**
 - **CLion**
 
-## 🎓 Holder of 2 Badges by
-- **CISCO NETWORKING ACADEMY**
+## 🎓 Holder of 2 Badges by CNA
 - **Networking Basics**
 - **Introduction to Cybersecurity**
 
-## 🎓 Cerificate by
-- **CISCO NETWORKING ACADEMY**
+## 🎓 Cerificate by CNA
 - **Learn-A-Thon 2024**
   
 ## 📫 Contact
